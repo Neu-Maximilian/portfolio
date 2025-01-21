@@ -3,24 +3,24 @@ const background = [
         eduCards: [
             {
                 id: 0,
-                title: 'UET Peshawar',
-                degree: 'BS, Computer System Engineering',
-                detail: "Bachelor's Degree in Computer System Engineering from UET Peshawar.",
-                year: '2018-2022'
+                title: 'CCI Campus Alsace',
+                degree: 'BTS SIO (Services Informatiques aux Organisations)',
+                detail: 'BTS SIO, avec spécialité en Systèmes et Réseaux. En alternance, avec l\'entreprise Hôpitaux Civils de Colmar.',
+                year: '2023-2025'
             },
             {
                 id: 1,
-                title: 'Peshawar Model Degree College',
-                degree: 'HSSC, Pre Engineering',
-                detail: "Completed FSC part 1 and part 2 in Pre-Engineering from Peshawar Model Degree College.",
-                year: '2015-2017'
+                title: 'Université de haute-alsace',
+                degree: 'Licence Informatique',
+                detail: 'Licence Informatique, avec spécialité en Informatique et Mathématiques Appliquées. Validation de la L1, L2 non poursuivie.',
+                year: '2022-2023'
             },
             {
                 id: 2,
-                title: 'Falcon Academy',
-                degree: 'SSC, Science Subjects',
-                detail: "Completed SSC part 1 and part 2 in Science subjects from Falcon Academy Seni Gumbat Kohat",
-                year: '2013-2015'
+                title: 'Lycée La Bourdonnais',
+                degree: 'Baccalauréat, Général',
+                detail: 'Baccalauréat Général, avec spécialité en NSI (Numérique et Sciences Informatiques), Physique-Chimie et Mathématiques. Mention Bien.',
+                year: '2010-2022'
             },
         ]
     },
@@ -28,30 +28,21 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'JMM Technologies',
-                role: 'Frontend Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a frontend developer, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
+                title: 'Hôpitaux Civils de Colmar',
+                role: 'Administrateur Systèmes (alternant)',
+                url: 'https://ch-colmar.fr/',
+                desc: 'Développement solutions info, dont un système de messagerie. Mise en place/gestion MECM, TREND, et solutions hospitalières.',
+                year: '09/2023 - Present',
+                location: 'Colmar, France'
             },
             {
                 id: 2,
-                title: 'HauzaTech',
-                role: 'Internee',
-                url: 'no website',
-                desc: 'As an Internee, I learned how to use React & JavaScript to build interactive websites.',
-                year: '02/2023 - Present',
-                location: 'Peshawar, Pakistan'
-            },
-            {
-                id: 3,
-                title: 'Encoder Bytes',
-                role: 'PHP Developer',
-                url: 'https://www.encoderbytes.com/',
-                desc: "I work there as a PHP developer, there I learned how to do CRUD'S operations in PHP, also I worked on Firebase",
-                year: '09/2020 - 02/2021',
-                location: 'Peshawar, Pakistan'
+                title: 'U-Logistique',
+                role: 'Préparateur de commande',
+                url: 'https://www.u-logistique.com/',
+                desc: 'Assurer la réception, le stockage, la préparation de marchandises. Utilisation d\'un chariot. Maintien des consignes de sécurités.',
+                year: '01/2023 - 07/2023',
+                location: 'Mulhouse, France'
             },
 
         ]

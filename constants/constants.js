@@ -1,67 +1,73 @@
-export const NAME = 'Muhammad Osama Javaid';
+export const NAME = 'Maximilian Neu';
 
-export const DESIGNATION = `MERN Stack Developer | Open Source Contributor | Tech Blogger`;
+export const DESIGNATION = `Professionnel DevOps | Développeur | Systèmes et Réseaux`;
 
 export const DETAILS = {
-  Residence: 'Pakistan',
-  City: 'Peshawar',
-  Age: '23',
+  Pays: 'France',
+  Ville: 'Colmar',
+  Âge: '20',
+  Entreprise: 'Hôpitaux Civils de Colmar',
 };
 
 export const SKILLS = [
   {
-    title: 'MERN Stack Developer',
+    title: 'Administrateur Systèmes et Réseaux',
     level: '75%',
   },
   {
-    title: 'React Developer',
+    title: 'Technicien Support Informatique',
     level: '91%',
   },
-  // {
-  //   title: 'Desktop Application Developer',
-  //   level: '75%',
-  // },
   {
-    title: 'Backend Developer',
+    title: 'Développeur Backend',
     level: '54%',
   },
   {
-    title: 'Technical Blogger',
-    level: '83%',
+    title: 'Développeur DevOps',
+    level: '36%',
   },
 ];
 
 export const TECH_STACK = [
+  'Fortinet',
+  'OPNsense',
+  'Zimbra',
+  'Graphana',
+  'Wireguard',
+  'Netbird',
+  'Trend EDR',
+  'GNU/Linux',
+  'Xen Server',
+  'Kubernetes',
+  'Crypto',
+  'GPO/AD',
+  'C#',
+  'C++',
+  'Dart',
+  'Rust',
   'JavaScript',
-  'ReactJS',
-  'NextJS',
-  'TypeScript',
-  'NodeJS',
-  'Redux',
-  'Zustand',
-  'CSS',
-  'SCSS',
-  'TailwindCSS',
-  'Ant Design',
-  'Material UI',
-  'Next UI',
-  'REST API',
-  'MongoDB',
-  'MySQL',
-  'Git',
-  'GitHub',
-  'Jira',
-  'Figma',
-  'Adobe XD',
+  'Python',
+  'PowerShell',
+  'Bash',
+  'MECM',
+  'Windows',
+  'Copilot',
+  'VS Code',
 ];
 
 export const CONTACTS = {
-  EMAIL: 'iosamajavaid@gmail.com',
-  PHONE: '+923159591822',
+  EMAIL: 'neu.maximilian@proton.me',
+  PHONE: '+33769694036',
+};
+export const CONTACTS_ACTIONS = {
+  EMAIL: 'mailto:' + CONTACTS.EMAIL,
+  PHONE: 'tel:' + CONTACTS.PHONE,
+};
+export const SOCIAL_PROFILES = {
+  GITHUB: 'Neu-Maximilian',
+  LINKEDIN: 'neu-maximilian',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/Neu-Maximilian',
+  LINKEDIN: 'https://www.linkedin.com/in/neu-maximilian/',
 };
